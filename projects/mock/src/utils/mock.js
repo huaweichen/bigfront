@@ -11,7 +11,7 @@ const mock = Mock.mock(/\/lists/, 'get', (options) => {
     const num = url.match(numRegex)[1]
 
     // index start from 1.
-    const startTid = (num - 1) * page + 1
+    const startTid = (page - 1) * num + 1
 
     let mockingData = `{
       "status": 0,

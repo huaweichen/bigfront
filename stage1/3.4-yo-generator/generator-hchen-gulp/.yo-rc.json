@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Huawei Chen",
+      "authorEmail": "iam@huaweichen.com",
+      "authorUrl": ""
+    }
+  }
+}

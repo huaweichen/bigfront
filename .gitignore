@@ -57,3 +57,4 @@ dist
 *.iml
 out
 gen
+stage1/4.1-mongodb/data
